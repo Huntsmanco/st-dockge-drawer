@@ -1,4 +1,4 @@
-const DEFAULT_URL = '/api/plugins/dockge/';
+const DEFAULT_URL = '127.0.0.1:5001';
 
 jQuery(() => {
     const html = `
